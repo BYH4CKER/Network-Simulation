@@ -2,3 +2,6 @@
 
 #In the simulation, a few basic applications such as SNMP query, DHCP server detection, network port scanning, detection of live devices were tested in the Python environment and their outputs were added to the report.
 
+#The GNS3 image file is attached and you can download it and try it by importing the Kali Linux image yourself.
+
+
